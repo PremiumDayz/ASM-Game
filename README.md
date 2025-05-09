@@ -1,10 +1,10 @@
 SETUP:
 
-         dosbox-x latest
+   dosbox-x latest
          
-         Turbo Assembler 3.0 copyright 1987,1990 Borland
+   Turbo Assembler 3.0 copyright 1987,1990 Borland
       
-         Plain DOS
+   Plain DOS
 
 
 
