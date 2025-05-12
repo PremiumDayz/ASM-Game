@@ -13,3 +13,11 @@ Plain DOS
 Info:
 
 RPS.EXE: Rock, Paper, Scissors game played in the terminal.
+
+.
+
+.
+
+.
+
+There are other games because it show the learning process 
